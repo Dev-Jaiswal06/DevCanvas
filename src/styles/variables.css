@@ -1,0 +1,35 @@
+:root {
+  --bg-primary: #070B1A;
+  --bg-secondary: #0f172a;
+  --bg-surface: #1e293b;
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+  --border-color: rgba(255, 255, 255, 0.1);
+  --accent: #06b6d4;
+  --accent-secondary: #a855f7;
+  --navbar-bg: rgba(15, 23, 42, 0.8);
+  --navbar-border: rgba(255, 255, 255, 0.2);
+  --sidebar-bg: #0D1225;
+  --sidebar-hover: rgba(255, 255, 255, 0.1);
+  --footer-bg: #050816;
+  --glass-bg: rgba(255, 255, 255, 0.03);
+  --glass-border: rgba(255, 255, 255, 0.06);
+  --card-bg: rgba(255, 255, 255, 0.05);
+  --background: #070B1A;
+  --text: #f8fafc;
+  --surface: #0f172a;
+  --border: rgba(255, 255, 255, 0.1);
+  --primary: #06b6d4;
+  --secondary: #a855f7;
+  --muted: #64748b;
+  --radius: 1rem;
+  --success: #22c55e;
+  --warning: #eab308;
+  --danger: #ef4444;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
